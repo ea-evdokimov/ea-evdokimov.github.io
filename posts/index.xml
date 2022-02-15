@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on EA Evdokimov</title>
+    <link>http://www.example.com/posts/</link>
+    <description>Recent content in Posts on EA Evdokimov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crimea 2021, part 1</title>
+      <link>http://www.example.com/posts/second/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/second/</guid>
+      <description>После второй поездки в Крым с уверенностью могу сказать, что этот полуостров - одно из моих самых любимых мест России. На этом совсем небольшом по площади уголке найдется все, что хочется увидеть, отправляясь на отдых. Горы высотой до полутора километров, пляжи: галечные, песочные, дикие, скалистые; тропические растения, дворцы, райские сады, оживленные набережные с множеством развлечений. В западной части полуострова, где расположен Тарханкут бескрайние степи и обрыв, на ЮБК - серпантины, канатные дороги, виноградные поля, горки под 45 градусов.</description>
+    </item>
+    
+    <item>
+      <title>Student</title>
+      <link>http://www.example.com/posts/first/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/first/</guid>
+      <description>Студенчество - вот оно, лучшее время жизни! Недосып, круги под глазами, тысячи страниц на непонятном языке. Кофе и энергетики, ночные прогулки и подъемы в 3 часа утра. Сдача зачетов, закрытие долгов и прохождение полугодового курса за неделю.. Безумная гонка со временем перед дедлайнами, подгон лабораторных, усталость и нервозность, сомнения и мысли все бросить.
+А еще желание создавать новое, не отставать, попытки не лениться, поиск того, что нравится. Желание набраться опыта, поменьше ошибаться, не оборачиваться, пробовать новое и никогда не останавливаться.</description>
+    </item>
+    
+  </channel>
+</rss>
