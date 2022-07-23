@@ -2,72 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on EA Evdokimov</title>
-    <link>http://www.example.com/posts/</link>
+    <link>https://ea-evdokimov.github.io/posts/</link>
     <description>Recent content in Posts on EA Evdokimov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ea-evdokimov.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NiNo 2021</title>
-      <link>http://www.example.com/posts/nino/</link>
+      <link>https://ea-evdokimov.github.io/posts/2021-08-25/</link>
       <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/nino/</guid>
-      <description>Катание на самокатах, Чкаловская лестница, рестораны и еда, Волна и Ока, канатная дорога.
-Новгород
-Время новых постов! Продолжая путешествовать по России, попали в Нижний Новгород(и все, что по пути: Владимир, Суздаль, Дзержинск ). Да да, наверняка уже все слышали, что Новгороду в этом году исполнилось 800 лет, и сколько денег было выделено на его реставрацию, и как они были потрачены.</description>
+      <guid>https://ea-evdokimov.github.io/posts/2021-08-25/</guid>
+      <description>Время новых постов! Продолжая путешествовать по России, попали в Нижний Новгород и все, что по пути: Владимир, Суздаль, Дзержинск. Да да, наверняка уже все слышали, что Новгороду в этом году исполнилось 800 лет, и сколько денег было выделено на его реставрацию, и как они были потрачены.</description>
     </item>
     
     <item>
       <title>Crimea 2021, part 3</title>
-      <link>http://www.example.com/posts/2021-08-13/</link>
+      <link>https://ea-evdokimov.github.io/posts/2021-08-13/</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/2021-08-13/</guid>
+      <guid>https://ea-evdokimov.github.io/posts/2021-08-13/</guid>
       <description>Ну как же водят крымские таксисты, это просто нечто. Вспоминается песня отсюда. Когда вам кажется, что вы точно столкнетесь со встречным потоком или вылетите за пределы трассы на повороте, значит остаётся ещё целых 2 сантиметра, водитель и глазом не моргнет, хотя вы несетесь километров 80 в час.</description>
     </item>
     
     <item>
       <title>Crimea 2021, part 2</title>
-      <link>http://www.example.com/posts/2021-08-06/</link>
+      <link>https://ea-evdokimov.github.io/posts/2021-08-06/</link>
       <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/2021-08-06/</guid>
+      <guid>https://ea-evdokimov.github.io/posts/2021-08-06/</guid>
       <description>Конечно, по соотношению цены и качества российскому туризму до, скажем, турецкого ещё очень далеко. На лето сюда приезжают студенты и даже школьники, чтобы отдохнуть и подзаработать.
-Много впечатлений за каких-то 2 недели. За совсем небольшое время мы посетили Ялту, Алупку, Демерджи, Ай-Петри, Бахчисарай, Балаклаву, Севастополь, Херсонес.</description>
+Много впечатлений за каких-то 2 недели. За совсем небольшое время мы посетили Ялту, Алупку, Демерджи, Ай-Петри, Бахчисарай, Балаклаву, Севастополь, Херсонес.</description>
     </item>
     
     <item>
       <title>Crimea 2021, part 1</title>
-      <link>http://www.example.com/posts/2021-07-29/</link>
+      <link>https://ea-evdokimov.github.io/posts/2021-07-29/</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/2021-07-29/</guid>
-      <description>После второй поездки в Крым с уверенностью могу сказать, что этот полуостров - одно из моих самых любимых мест России. На этом совсем небольшом по площади уголке найдется все, что хочется увидеть, отправляясь на отдых. Горы высотой до полутора километров, пляжи: галечные, песочные, дикие, скалистые; тропические растения, дворцы, райские сады, оживленные набережные с множеством развлечений. В западной части полуострова, где расположен Тарханкут бескрайние степи и обрыв, на ЮБК - серпантины, канатные дороги, виноградные поля, горки под 45 градусов.</description>
+      <guid>https://ea-evdokimov.github.io/posts/2021-07-29/</guid>
+      <description>После второй поездки в Крым с уверенностью могу сказать, что этот полуостров - одно из моих самых любимых мест России. На этом совсем небольшом по площади уголке найдется все, что хочется увидеть, отправляясь на отдых. Горы высотой до полутора километров, пляжи: галечные, песочные, дикие, скалистые; тропические растения, дворцы, райские сады, оживленные набережные с множеством развлечений.</description>
     </item>
     
     <item>
       <title>Student</title>
-      <link>http://www.example.com/posts/2021-07-01/</link>
+      <link>https://ea-evdokimov.github.io/posts/2021-07-01/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/2021-07-01/</guid>
+      <guid>https://ea-evdokimov.github.io/posts/2021-07-01/</guid>
       <description>Студенчество - вот оно, лучшее время жизни! Недосып, круги под глазами, тысячи страниц на непонятном языке. Кофе и энергетики, ночные прогулки и подъемы в 3 часа утра. Сдача зачетов, закрытие долгов и прохождение полугодового курса за неделю.. Безумная гонка со временем перед дедлайнами, подгон лабораторных, усталость и нервозность, сомнения и мысли все бросить.
 А еще желание создавать новое, не отставать, попытки не лениться, поиск того, что нравится. Желание набраться опыта, поменьше ошибаться, не оборачиваться, пробовать новое и никогда не останавливаться.</description>
     </item>
     
     <item>
-      <title>Kaliningrad</title>
-      <link>http://www.example.com/posts/2021-04-24/</link>
+      <title>Kaliningrad 2021</title>
+      <link>https://ea-evdokimov.github.io/posts/2021-04-24/</link>
       <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/2021-04-24/</guid>
+      <guid>https://ea-evdokimov.github.io/posts/2021-04-24/</guid>
       <description>Калининград. Маленький кусочек русской Европы, отделенный от всех, с беспорядочной застройкой, интересными фортами, кучей жёлтых машин, гномами, такси через весь город за 120 рублей, дикой и первозданной Куршской косой. Для путешествия на 3 дня с друзьями самое то! Апрель 2021
-Sunset&amp;amp;2
-Clouds
-Yalta
-Sunset&amp;amp;2
-Clouds</description>
+А еще, в этом замечательном городе цветет сакура и пахнет морем, мой рекомендосьен!</description>
     </item>
     
   </channel>
